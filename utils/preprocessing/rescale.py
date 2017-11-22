@@ -1,0 +1,2 @@
+def rescale():
+    print('rescaled!')
